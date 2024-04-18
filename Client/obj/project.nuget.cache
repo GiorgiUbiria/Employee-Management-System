@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Qp8GJDuktDti82Bw22KKTdDMGSSjFARMyjMtIIyy/oIoNLt4KI+jm4WLaTv2t2o+/qvRLLsN1wv3Dss/x3MFTA==",
+  "dgSpecHash": "AZy5mpVYWFSCRE19L4yV//JhJxEW1ZeX3zcIjnKSKFep2atMUyVpP6KXeKVPRq5I9vkMalJz5XG6bYJA5ws96A==",
   "success": true,
   "projectFilePath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/Client.csproj",
   "expectedPackageFiles": [
+    "/home/faziskado/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.aspnetcore.authorization/8.0.3/microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.aspnetcore.components/8.0.3/microsoft.aspnetcore.components.8.0.3.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.aspnetcore.components.analyzers/8.0.3/microsoft.aspnetcore.components.analyzers.8.0.3.nupkg.sha512",

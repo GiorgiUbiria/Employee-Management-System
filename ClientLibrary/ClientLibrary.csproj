@@ -11,4 +11,9 @@
       <ProjectReference Include="..\Client\Client.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Services\Contracts\" />
+      <Folder Include="Services\Implementations\" />
+    </ItemGroup>
+
 </Project>

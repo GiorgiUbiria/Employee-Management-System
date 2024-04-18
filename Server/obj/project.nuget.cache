@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SAvbG66SFq1igdHbNnioc3wTFsviIYxPjh4UZBQKw4wpmK2DJCSkp3KivzLi8H0quXt/E9CFApDlMYLUfWpoHw==",
+  "dgSpecHash": "fptbzg0Ialdg5Z/apVGON770LNI/lXs/IH2IyIDwBOA7a+OD4tckgdnoCnHScNU42N5HBPc+tufn0IOslDZdnw==",
   "success": true,
   "projectFilePath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/Server.csproj",
   "expectedPackageFiles": [
+    "/home/faziskado/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.0/microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.aspnetcore.authorization/8.0.3/microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",

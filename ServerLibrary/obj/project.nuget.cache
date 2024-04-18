@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+swP2sm4xRN6NQNF2cdlLzV+bxcdhn1hsLqTtsgQGSAsxNPUEvuXhUzLUpP8bOKZ8MVl31CpfaublJ+qylaxNw==",
+  "dgSpecHash": "/p87Zk5kD3Ah7g18Kkp8znSUfeSQIT/VL3EMv7XqBRc9xbKy75dWstF/qTKsvonSWV88uVdgFUlRSPrKjHNSGg==",
   "success": true,
   "projectFilePath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ServerLibrary/ServerLibrary.csproj",
   "expectedPackageFiles": [
+    "/home/faziskado/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/home/faziskado/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.0/microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
