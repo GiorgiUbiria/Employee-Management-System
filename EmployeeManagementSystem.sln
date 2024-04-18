@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseClass", "BaseClass\Base
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLibrary", "ClientLibrary\ClientLibrary.csproj", "{90514B24-D2D7-469D-B8F0-AB253ED133B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerLibrary", "ServerLibrary\ServerLibrary.csproj", "{3CCB7182-2214-4C5C-BBC3-2A0711532FAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{90514B24-D2D7-469D-B8F0-AB253ED133B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90514B24-D2D7-469D-B8F0-AB253ED133B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90514B24-D2D7-469D-B8F0-AB253ED133B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CCB7182-2214-4C5C-BBC3-2A0711532FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCB7182-2214-4C5C-BBC3-2A0711532FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCB7182-2214-4C5C-BBC3-2A0711532FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCB7182-2214-4C5C-BBC3-2A0711532FAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
