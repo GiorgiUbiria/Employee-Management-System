@@ -10,3 +10,4 @@
 /home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/BaseClass/obj/Debug/net8.0/refint/BaseClass.dll
 /home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/BaseClass/obj/Debug/net8.0/BaseClass.pdb
 /home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/BaseClass/obj/Debug/net8.0/ref/BaseClass.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/BaseClass/obj/Debug/net8.0/BaseClass.csproj.AssemblyReference.cache

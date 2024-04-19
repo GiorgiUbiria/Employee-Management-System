@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MT0LbGcAy8pO7vMhBZ0nYDecUDCt7PE0ExVMID5ganI=",
+  "Hash": "r+wcxgnVEa4n/2bsZsPdw0jBJUla8wJBl1LD+Wrjc4U=",
   "Source": "Server",
   "BasePath": "_content/Server",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "Client",
       "GetPublishAssetsTargets": "ComputeFilesToPublish;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "_PublishingBlazorWasmProject=true;BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "_PublishingBlazorWasmProject=true;BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true",
       "AdditionalPublishPropertiesToRemove": "NoBuild;RuntimeIdentifier;WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "RuntimeIdentifier;SelfContained;WebPublishProfileFile;TargetFramework"
     }
   ],
@@ -28,6 +28,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/AutoMapper.wasm",
+      "SourceId": "Client",
+      "SourceType": "Project",
+      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/webcil/AutoMapper.wasm"
+    },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/BaseClass.pdb",
       "SourceId": "Client",
@@ -4853,6 +4872,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.3.906rj00plc.js"
+    },
+    {
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/9ku6drfz3o.gz",
+      "SourceId": "Client",
+      "SourceType": "Project",
+      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/AutoMapper.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/AutoMapper.wasm"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/9m2cemc3ky.gz",
