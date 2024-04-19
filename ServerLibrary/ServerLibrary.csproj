@@ -25,7 +25,6 @@
     </ItemGroup>
     
     <ItemGroup>
-      <Folder Include="Repositories\Contracts\" />
       <Folder Include="Repositories\Implementations\" />
     </ItemGroup>
 
