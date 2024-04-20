@@ -39,7 +39,7 @@ public class UserAccountRepository(IOptions<JwtSection> config, AppDbContext app
         SystemRole response = new();
         if (checkUserRole is null)
         {
-            response = await AddToDatabase(new SystemRole() { Name = Constants.Admin });
+            response = await AddToDatabase(new SystemRole() { Name = Constants.User });
             await AddToDatabase(new UserRole() { RoleId = response.Id, UserId = applicationUser.Id });
         }
         else
