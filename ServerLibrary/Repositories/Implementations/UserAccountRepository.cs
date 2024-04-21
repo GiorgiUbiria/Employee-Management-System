@@ -1,9 +1,13 @@
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
 using BaseClass.DTOs;
 using BaseClass.Entities;
 using BaseClass.Responses;
 using BCrypt.Net;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.VisualBasic;
 using ServerLibrary.Data;
 using ServerLibrary.Helpers;
@@ -71,6 +75,29 @@ public class UserAccountRepository(IOptions<JwtSection> config, AppDbContext app
         string refreshToken = GenerateRefreshToken();
 
         return new LoginResponse(true, "Login successfully!", jwtToken, refreshToken);
+    }
+
+    private string GenerateToken(ApplicationUser user, string role)
+    {
+        var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(config.Value.Key!));
+        var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+        var userClaims = new[]
+        {
+            new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
+            new Claim(ClaimTypes.Name, user.FullName!),
+            new Claim(ClaimTypes.Email, user.Email!),
+            new Claim(ClaimTypes.Role, role!),
+        };
+
+        var token = new JwtSecurityToken(
+            issuer: config.Value.Issuer,
+            audience: config.Value.Audience,
+            claims: userClaims,
+            expires: DateTime.Now.AddDays(1),
+            signingCredentials: credentials
+        );
+
+        return new JwtSecurityTokenHandler().WriteToken(token);
     }
 
     private async Task<ApplicationUser> FindUserByEmail(string email) =>
