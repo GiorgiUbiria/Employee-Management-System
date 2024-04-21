@@ -1,5 +1,6 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
+using System.Security.Cryptography;
 using System.Text;
 using BaseClass.DTOs;
 using BaseClass.Entities;
@@ -99,6 +100,8 @@ public class UserAccountRepository(IOptions<JwtSection> config, AppDbContext app
 
         return new JwtSecurityTokenHandler().WriteToken(token);
     }
+
+    private static string GenerateRefreshToken() => Convert.ToBase64String(RandomNumberGenerator.GetBytes(64));
 
     private async Task<ApplicationUser> FindUserByEmail(string email) =>
         await appDbContext.ApplicationUsers.FirstOrDefaultAsync(_ => _.Email!.ToLower()!.Equals(email!.ToLower()));
