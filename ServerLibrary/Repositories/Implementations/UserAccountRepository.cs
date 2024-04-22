@@ -75,6 +75,17 @@ public class UserAccountRepository(IOptions<JwtSection> config, AppDbContext app
         string jwtToken = GenerateToken(applicationUser, getRoleName!.Name!);
         string refreshToken = GenerateRefreshToken();
 
+        var findUser = await appDbContext.RefreshTokenInfos.FirstOrDefaultAsync(_ => _.UserId == applicationUser.Id);
+        if (findUser is not null)
+        {
+            findUser!.Token = refreshToken;
+            await appDbContext.SaveChangesAsync();
+        }
+        else
+        {
+            await AddToDatabase(new RefreshTokenInfo() { Token = refreshToken, UserId = applicationUser.Id });
+        }
+        
         return new LoginResponse(true, "Login successfully!", jwtToken, refreshToken);
     }
 
