@@ -78,6 +78,32 @@ public class UserAccountRepository(IOptions<JwtSection> config, AppDbContext app
         return new LoginResponse(true, "Login successfully!", jwtToken, refreshToken);
     }
 
+    public async Task<LoginResponse> RefreshTokenAsync(RefreshToken token)
+    {
+        if (token is null) return new LoginResponse(false, "Model is empty.");
+
+        var findToken = await appDbContext.RefreshTokenInfos.FirstOrDefaultAsync(_ => _.Token!.Equals(token.Token));
+        if (findToken is null) return new LoginResponse(false, "Refresh token is required.");
+
+        var user = await appDbContext.ApplicationUsers.FirstOrDefaultAsync(_ => _.Id == findToken.UserId);
+        if (user is null)
+            return new LoginResponse(false, "Refresh token cannot be generated, because the user is not found.");
+
+        var userRole = await FindUserRole(user.Id);
+        var roleName = await FindRoleName(userRole.RoleId);
+        string jwtToken = GenerateToken(user, roleName.Name!);
+        string refreshToken = GenerateRefreshToken();
+
+        var updatedRefreshToken = await appDbContext.RefreshTokenInfos.FirstOrDefaultAsync(_ => _.UserId == user.Id);
+        if (updatedRefreshToken is null)
+            return new LoginResponse(false, "Refresh token cannot be generated, because the user is not signed in.");
+
+        updatedRefreshToken.Token = refreshToken;
+        await appDbContext.SaveChangesAsync();
+
+        return new LoginResponse(true, "Token refreshed successfully!", jwtToken, refreshToken);
+    }
+
     private async Task<UserRole> FindUserRole(int userId) =>
         await appDbContext.UserRoles.FirstOrDefaultAsync(_ => _.UserId == userId);
 
