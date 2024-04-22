@@ -101,6 +101,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -109,6 +117,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
