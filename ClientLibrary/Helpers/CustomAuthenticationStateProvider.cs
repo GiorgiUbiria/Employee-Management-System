@@ -24,12 +24,27 @@ public class CustomAuthenticationStateProvider(LocalStorageService localStorageS
         return await Task.FromResult(new AuthenticationState(claimsPrincipal));
     }
 
+    public static ClaimsPrincipal SetClaimsPrincipal(CustomUserClaims claims)
+    {
+        if (claims.Email is null) return new ClaimsPrincipal();
+        return new ClaimsPrincipal(new ClaimsIdentity(
+            new List<Claim>
+            {
+                new(ClaimTypes.NameIdentifier, claims.Id!),
+                new(ClaimTypes.Name, claims.Name!),
+                new(ClaimTypes.Email, claims.Email!),
+                new(ClaimTypes.Role, claims.Role!),
+            }, "JwtAUth"
+        ));
+    }
+
     private static CustomUserClaims DecryptToken(string jwtToken)
     {
         if (string.IsNullOrEmpty(jwtToken)) return new CustomUserClaims();
 
         var handler = new JwtSecurityTokenHandler();
         var token = handler.ReadJwtToken(jwtToken);
+        
         var userId = token.Claims.FirstOrDefault(_ => _.Type == ClaimTypes.NameIdentifier);
         var name = token.Claims.FirstOrDefault(_ => _.Type == ClaimTypes.Name);
         var email = token.Claims.FirstOrDefault(_ => _.Type == ClaimTypes.Email);
