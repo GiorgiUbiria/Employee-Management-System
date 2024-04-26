@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "uwLAHcd2bG7jlHmPfxfc1KL32qsrGIZcraHo90mPCXFyvvarykRa1OQMnRGmjl7fTQ50CHBrl1jW8KhJiSVgNg==",
-  "success": false,
+  "dgSpecHash": "FJ1VTIHWaPIE0HR7t04FHU5uVx4nr+5JyRyp8lH5aFnij+sUYvXSW1YkGfTB73yGCTAXgqd5N+sGoCYWk2YzCg==",
+  "success": true,
   "projectFilePath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/Server.csproj",
   "expectedPackageFiles": [
     "/home/faziskado/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
@@ -54,12 +54,12 @@
     "/home/faziskado/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.identitymodel.abstractions/7.0.3/microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.3/microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.identitymodel.logging/7.0.3/microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/microsoft.identitymodel.abstractions/7.5.1/microsoft.identitymodel.abstractions.7.5.1.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.5.1/microsoft.identitymodel.jsonwebtokens.7.5.1.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/microsoft.identitymodel.logging/7.5.1/microsoft.identitymodel.logging.7.5.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.identitymodel.protocols/7.0.3/microsoft.identitymodel.protocols.7.0.3.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.0.3/microsoft.identitymodel.protocols.openidconnect.7.0.3.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.identitymodel.tokens/7.0.3/microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/microsoft.identitymodel.tokens/7.5.1/microsoft.identitymodel.tokens.7.5.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.jsinterop/8.0.3/microsoft.jsinterop.8.0.3.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.jsinterop.webassembly/8.0.3/microsoft.jsinterop.webassembly.8.0.3.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.netcore.platforms/1.1.1/microsoft.netcore.platforms.1.1.1.nupkg.sha512",
@@ -121,7 +121,7 @@
     "/home/faziskado/.nuget/packages/system.globalization/4.3.0/system.globalization.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.globalization.calendars/4.3.0/system.globalization.calendars.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.globalization.extensions/4.3.0/system.globalization.extensions.4.3.0.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/system.identitymodel.tokens.jwt/7.0.3/system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/system.identitymodel.tokens.jwt/7.5.1/system.identitymodel.tokens.jwt.7.5.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.io.compression/4.3.0/system.io.compression.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.io.compression.zipfile/4.3.0/system.io.compression.zipfile.4.3.0.nupkg.sha512",
@@ -175,25 +175,5 @@
     "/home/faziskado/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Warning As Error: Detected package downgrade: System.IdentityModel.Tokens.Jwt from 7.5.1 to 7.0.3. Reference the package directly from the project to select a different version. \n Server -> Client -> System.IdentityModel.Tokens.Jwt (>= 7.5.1) \n Server -> System.IdentityModel.Tokens.Jwt (>= 7.0.3)",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

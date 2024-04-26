@@ -137,3 +137,10 @@
 /home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/ServerLibrary.dll
 /home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/ServerLibrary.pdb
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/Blazored.LocalStorage.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/System.Net.Http.Formatting.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/Microsoft.AspNetCore.Components.Authorization.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/ClientLibrary.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/ClientLibrary.pdb
