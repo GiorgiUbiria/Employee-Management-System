@@ -6,9 +6,15 @@
 
     <main>
         <div class="top-row px-4">
-            <a href="identity/account/login">Login</a>
-            <a href="identity/account/register">Register</a>
-            <a @onclick="LogoutClicked">Logout</a>
+            <AuthorizeView>
+                <Authorized>
+                    <a @onclick="LogoutClicked">Logout</a>
+                </Authorized> 
+                <NotAuthorized>
+                    <a href="identity/account/login">Login</a>
+                    <a href="identity/account/register">Register</a>
+                </NotAuthorized>
+            </AuthorizeView>
         </div>
 
         <article class="content px-4">
