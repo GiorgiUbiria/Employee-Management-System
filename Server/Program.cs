@@ -43,11 +43,11 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+app.UseCors("AllowBlazorWasm");
+
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllers();
 });
-
-app.UseCors("AllowBlazorWasm");
 
 app.Run();
