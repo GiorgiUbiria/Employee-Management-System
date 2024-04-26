@@ -22,7 +22,7 @@ builder.Services.AddScoped<IUserAccount, UserAccountRepository>();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowBlazorWasm", builder => builder.WithOrigins("http:localhost:5045", "https://localhost:7118")
+    options.AddPolicy("AllowBlazorWasm", builder => builder.WithOrigins("http:localhost:5045", "https://localhost:7142")
         .AllowAnyHeader()
         .AllowAnyMethod()
         .AllowCredentials()

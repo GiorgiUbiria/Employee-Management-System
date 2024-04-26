@@ -17,7 +17,6 @@ builder.Services.AddHttpClient(
         client.BaseAddress = new Uri("https://localhost:7118/");
     });
 
-builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7118/") });
 builder.Services.AddAuthorizationCore();
 builder.Services.AddBlazoredLocalStorage();
 builder.Services.AddScoped<GetHttpClient>();
