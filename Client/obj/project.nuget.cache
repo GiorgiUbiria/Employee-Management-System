@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "CdXWu068+lMwi6kFqebDiL5+aS9qULiRbYE16MWMMMXrSf80r4pA0X14oSMxNvahg0xJugJSqzT2P4hKam1/ug==",
-  "success": false,
+  "dgSpecHash": "Nl4mdPBH7dj7VqfvKCguQymsIjniQjU1kh6UFskZNQsdQpLTlMY2vCMBR0DJzI5dYtFoQKSya9EQtlSsAat8xg==",
+  "success": true,
   "projectFilePath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/Client.csproj",
   "expectedPackageFiles": [
     "/home/faziskado/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
@@ -152,15 +152,5 @@
     "/home/faziskado/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.3/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Cycle detected. \n  Client -> ClientLibrary -> Client.",
-      "libraryId": "Client",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

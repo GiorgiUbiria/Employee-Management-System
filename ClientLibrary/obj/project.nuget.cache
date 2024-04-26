@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "Rxs9m7NUFMKc+KVEmIYA/MYHExzceIh6Kz9cIOh3w/PGdiEOm/9uRa0yesxs5WDjP753tIIphbMkakGzEtk/Mw==",
-  "success": false,
+  "dgSpecHash": "5mWnP+rBplgW492pyq4cZouf1ti56o5WOpW9IwltfiH7c5qoUX/b62VLr5ss/hjRb8A0q7DgwYaCz3aRlqMO4A==",
+  "success": true,
   "projectFilePath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/ClientLibrary.csproj",
   "expectedPackageFiles": [
     "/home/faziskado/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
@@ -11,23 +11,17 @@
     "/home/faziskado/.nuget/packages/microsoft.aspnetcore.components/8.0.4/microsoft.aspnetcore.components.8.0.4.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.aspnetcore.components.analyzers/8.0.4/microsoft.aspnetcore.components.analyzers.8.0.4.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.aspnetcore.components.authorization/8.0.4/microsoft.aspnetcore.components.authorization.8.0.4.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.aspnetcore.components.forms/8.0.3/microsoft.aspnetcore.components.forms.8.0.3.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.aspnetcore.components.web/8.0.3/microsoft.aspnetcore.components.web.8.0.3.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.aspnetcore.components.webassembly/8.0.3/microsoft.aspnetcore.components.webassembly.8.0.3.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/microsoft.aspnetcore.components.forms/8.0.0/microsoft.aspnetcore.components.forms.8.0.0.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/microsoft.aspnetcore.components.web/8.0.0/microsoft.aspnetcore.components.web.8.0.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.aspnetcore.metadata/8.0.4/microsoft.aspnetcore.metadata.8.0.4.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.extensions.configuration.binder/8.0.1/microsoft.extensions.configuration.binder.8.0.1.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.extensions.diagnostics/8.0.0/microsoft.extensions.diagnostics.8.0.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.extensions.diagnostics.abstractions/8.0.0/microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.extensions.http/8.0.0/microsoft.extensions.http.8.0.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.1/microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
@@ -38,8 +32,7 @@
     "/home/faziskado/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.5.1/microsoft.identitymodel.jsonwebtokens.7.5.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.identitymodel.logging/7.5.1/microsoft.identitymodel.logging.7.5.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.identitymodel.tokens/7.5.1/microsoft.identitymodel.tokens.7.5.1.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.jsinterop/8.0.3/microsoft.jsinterop.8.0.3.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.jsinterop.webassembly/8.0.3/microsoft.jsinterop.webassembly.8.0.3.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/microsoft.jsinterop/8.0.0/microsoft.jsinterop.8.0.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.netcore.platforms/1.1.1/microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.win32.primitives/4.3.0/microsoft.win32.primitives.4.3.0.nupkg.sha512",
@@ -130,15 +123,5 @@
     "/home/faziskado/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Cycle detected. \n  ClientLibrary -> Client -> ClientLibrary.",
-      "libraryId": "ClientLibrary",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

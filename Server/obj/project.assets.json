@@ -3185,7 +3185,8 @@
           "ClientLibrary": "1.0.0",
           "Microsoft.AspNetCore.Components.Authorization": "8.0.4",
           "Microsoft.AspNetCore.Components.WebAssembly": "8.0.3",
-          "Microsoft.Extensions.Http": "8.0.0"
+          "Microsoft.Extensions.Http": "8.0.0",
+          "System.IdentityModel.Tokens.Jwt": "7.5.1"
         },
         "compile": {
           "bin/placeholder/Client.dll": {}
@@ -3200,7 +3201,6 @@
         "dependencies": {
           "BaseClass": "1.0.0",
           "Blazored.LocalStorage": "4.5.0",
-          "Client": "1.0.0",
           "Microsoft.AspNet.WebApi.Client": "5.2.7",
           "Microsoft.AspNetCore.Components": "8.0.4",
           "Microsoft.AspNetCore.Components.Authorization": "8.0.4",
@@ -9760,10 +9760,10 @@
       ]
     },
     {
-      "code": "NU1108",
+      "code": "NU1605",
       "level": "Error",
-      "message": "Cycle detected. \n  Server -> Client -> ClientLibrary -> Client.",
-      "libraryId": "Client",
+      "message": "Warning As Error: Detected package downgrade: System.IdentityModel.Tokens.Jwt from 7.5.1 to 7.0.3. Reference the package directly from the project to select a different version. \n Server -> Client -> System.IdentityModel.Tokens.Jwt (>= 7.5.1) \n Server -> System.IdentityModel.Tokens.Jwt (>= 7.0.3)",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net8.0"
       ]

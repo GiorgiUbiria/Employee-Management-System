@@ -2300,7 +2300,6 @@
         "dependencies": {
           "BaseClass": "1.0.0",
           "Blazored.LocalStorage": "4.5.0",
-          "Client": "1.0.0",
           "Microsoft.AspNet.WebApi.Client": "5.2.7",
           "Microsoft.AspNetCore.Components": "8.0.4",
           "Microsoft.AspNetCore.Components.Authorization": "8.0.4",
@@ -4630,7 +4629,6 @@
         "dependencies": {
           "BaseClass": "1.0.0",
           "Blazored.LocalStorage": "4.5.0",
-          "Client": "1.0.0",
           "Microsoft.AspNet.WebApi.Client": "5.2.7",
           "Microsoft.AspNetCore.Components": "8.0.4",
           "Microsoft.AspNetCore.Components.Authorization": "8.0.4",
@@ -10304,7 +10302,8 @@
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.3",
       "Microsoft.Extensions.Http >= 8.0.0",
       "Microsoft.NET.ILLink.Tasks >= 8.0.3",
-      "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.3"
+      "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.3",
+      "System.IdentityModel.Tokens.Jwt >= 7.5.1"
     ]
   },
   "packageFolders": {
@@ -10383,6 +10382,10 @@
             "target": "Package",
             "version": "[8.0.3, )",
             "autoReferenced": true
+          },
+          "System.IdentityModel.Tokens.Jwt": {
+            "target": "Package",
+            "version": "[7.5.1, )"
           }
         },
         "imports": [
@@ -10415,16 +10418,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Cycle detected. \n  Client -> ClientLibrary -> Client.",
-      "libraryId": "Client",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

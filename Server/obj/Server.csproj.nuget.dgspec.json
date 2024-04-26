@@ -136,6 +136,10 @@
               "target": "Package",
               "version": "[8.0.3, )",
               "autoReferenced": true
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.1, )"
             }
           },
           "imports": [
@@ -193,9 +197,6 @@
             "projectReferences": {
               "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/BaseClass/BaseClass.csproj": {
                 "projectPath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/BaseClass/BaseClass.csproj"
-              },
-              "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/Client.csproj": {
-                "projectPath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/Client.csproj"
               }
             }
           }

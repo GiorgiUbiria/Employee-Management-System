@@ -1,0 +1,16 @@
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/bin/Debug/net8.0/ClientLibrary.deps.json
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/bin/Debug/net8.0/ClientLibrary.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/bin/Debug/net8.0/ClientLibrary.pdb
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/bin/Debug/net8.0/BaseClass.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/bin/Debug/net8.0/BaseClass.pdb
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/obj/Debug/net8.0/ClientLibrary.csproj.AssemblyReference.cache
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/obj/Debug/net8.0/ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/obj/Debug/net8.0/ClientLibrary.AssemblyInfoInputs.cache
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/obj/Debug/net8.0/ClientLibrary.AssemblyInfo.cs
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/obj/Debug/net8.0/ClientLibrary.csproj.CoreCompileInputs.cache
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/obj/Debug/net8.0/ClientLibrary.sourcelink.json
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/obj/Debug/net8.0/ClientLibrary.csproj.CopyComplete
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/obj/Debug/net8.0/ClientLibrary.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/obj/Debug/net8.0/refint/ClientLibrary.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/obj/Debug/net8.0/ClientLibrary.pdb
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/obj/Debug/net8.0/ref/ClientLibrary.dll
