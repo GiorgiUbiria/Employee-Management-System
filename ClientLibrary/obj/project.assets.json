@@ -2281,6 +2281,7 @@
         "dependencies": {
           "BaseClass": "1.0.0",
           "Blazored.LocalStorage": "4.5.0",
+          "ClientLibrary": "1.0.0",
           "Microsoft.AspNetCore.Components.Authorization": "8.0.4",
           "Microsoft.AspNetCore.Components.WebAssembly": "8.0.3",
           "Microsoft.Extensions.Http": "8.0.0"
@@ -7301,5 +7302,16 @@
         "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \n  ClientLibrary -> Client -> ClientLibrary.",
+      "libraryId": "ClientLibrary",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

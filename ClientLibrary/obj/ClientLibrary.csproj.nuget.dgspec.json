@@ -87,6 +87,9 @@
             "projectReferences": {
               "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/BaseClass/BaseClass.csproj": {
                 "projectPath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/BaseClass/BaseClass.csproj"
+              },
+              "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/ClientLibrary.csproj": {
+                "projectPath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/ClientLibrary/ClientLibrary.csproj"
               }
             }
           }
