@@ -15,7 +15,7 @@ builder.Services.AddHttpClient(
     "SystemApiClient", client =>
     {
         client.BaseAddress = new Uri("https://localhost:7118/");
-    });
+    }).AddHttpMessageHandler<CustomHttpHandler>();
 
 builder.Services.AddAuthorizationCore();
 builder.Services.AddBlazoredLocalStorage();

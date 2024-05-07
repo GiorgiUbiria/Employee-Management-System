@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Nl4mdPBH7dj7VqfvKCguQymsIjniQjU1kh6UFskZNQsdQpLTlMY2vCMBR0DJzI5dYtFoQKSya9EQtlSsAat8xg==",
+  "dgSpecHash": "TO+tZUdtQreHWwjr6QjevDK3y8QhZTeeEru/XRMwHiIQK2FrN72MkU4CAIR4hGxkSCpC3nPE7s31xRtEgLCR9w==",
   "success": true,
   "projectFilePath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/Client.csproj",
   "expectedPackageFiles": [
@@ -41,8 +41,8 @@
     "/home/faziskado/.nuget/packages/microsoft.identitymodel.tokens/7.5.1/microsoft.identitymodel.tokens.7.5.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.jsinterop/8.0.3/microsoft.jsinterop.8.0.3.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.jsinterop.webassembly/8.0.3/microsoft.jsinterop.webassembly.8.0.3.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.net.illink.tasks/8.0.3/microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.3/microsoft.net.sdk.webassembly.pack.8.0.3.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/microsoft.net.illink.tasks/8.0.4/microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.4/microsoft.net.sdk.webassembly.pack.8.0.4.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.netcore.platforms/1.1.1/microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/microsoft.win32.primitives/4.3.0/microsoft.win32.primitives.4.3.0.nupkg.sha512",
@@ -150,7 +150,7 @@
     "/home/faziskado/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.3/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.3.nupkg.sha512"
+    "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.4/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.4.nupkg.sha512"
   ],
   "logs": []
 }
