@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "Client",
   "resources": {
-    "hash": "sha256-MsPhBpRtfrDjqcjPG6gTxbzXmXApqb3p9tQP1OhBAH0=",
+    "hash": "sha256-EFeP4glsIvU5JZg6B0AK6hQTVROrV/zk8snhyBUQKGg=",
     "jsModuleNative": {
-      "dotnet.native.8.0.3.906rj00plc.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
+      "dotnet.native.8.0.4.3hz35kshm1.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.3.cocgsr8f18.js": "sha256-eQgtmRxLcbxYmADDa49CHs/GuJ7nM6d/UFWo4EVhuIw="
+      "dotnet.runtime.8.0.4.zwo5xcsegg.js": "sha256-JeVsECOqOie/Pe89n9PJNJaMmb5vJsAAxfXY8INN64A="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-eVeGwMx+BfzNeU727VmCADSEBzGFWGkvJAX0XZdSVkQ="
+      "dotnet.native.wasm": "sha256-U1JSgnum2OTerSq8i5Y9L17deHEWJmae0djinSPLyJM="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -223,15 +223,15 @@
       "mscorlib.wasm": "sha256-/xjZuJwCmantx5vGyH5ZZ8keySSTeu+YHKQRJbZzcuM=",
       "netstandard.wasm": "sha256-vuFKmCGJbyv85DrzI6S1ZvCikuhIllH6hqbXIL+fUAA=",
       "System.Private.CoreLib.wasm": "sha256-SZkozEDkHEFN0VaDmhl2HOenGaqTOmHqEGkraz3Aejc=",
-      "BaseClass.wasm": "sha256-6DhiwaOz+4Pdne0PlF28SP9rxjUy3aPvS74iz73mAI8=",
-      "ClientLibrary.wasm": "sha256-AT4Hb3i3oUIRXiP7UyRgdBQwlV/6Mpn6Vh+EMsZON/I=",
+      "BaseClass.wasm": "sha256-z6Z4xnY+FAn3sHb25iYYSQ6+eB1BtMY4UvQECzCPJ3Q=",
+      "ClientLibrary.wasm": "sha256-7r2O4ctK539LbCbVePoGeb71QsAxfMCQiQkqAO+/F6Q=",
       "Microsoft.EntityFrameworkCore.wasm": "sha256-7b/smIWXYYSTQkuKDuHwCqVHnzWf9XbFL5ArO9xzRxw=",
-      "Client.wasm": "sha256-oijEtouwWoHm859I3s40QI3w/l3NTEqRWtENVxGqPBc="
+      "Client.wasm": "sha256-+wFK+0j0Y+vaCiFB06fnUaguuIIMfmoPUdm2AzbHT8s="
     },
     "pdb": {
-      "BaseClass.pdb": "sha256-2Me2Ky6MMa602pgBtUpVUbhwp4BRTaT7vaCLevn5fUE=",
-      "ClientLibrary.pdb": "sha256-MZ/37XLKQ0fILVg15XQ/LWwrjwfo2vgm8nyrhISBPZg=",
-      "Client.pdb": "sha256-Eq5cnACD5nUPHLzq/xaTmdaAzsC3UFJft1lU+K25YcQ="
+      "BaseClass.pdb": "sha256-pWQOrp2Ji0T+uAuHMrrHY9sNBaQHe7ssLuSbbnno3DA=",
+      "ClientLibrary.pdb": "sha256-/JK8wYmmt6bMM1AZxXJH/irfoa2IEhh112sCYuP9hwI=",
+      "Client.pdb": "sha256-UGbStEOu+Wm7Gdkb8iS96HAg62WEqvcIHgfZ0Rhup9A="
     }
   },
   "cacheBootResources": true,

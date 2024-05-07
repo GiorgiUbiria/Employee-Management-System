@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NHP/q3v6grpZ1qE1bpqSFN8syi83PLhtEdJpXXwbV0w=",
+  "Hash": "APy4eT2r5im059ZCE5uyWy3EyMNEp8Yc4pHnchnBdEU=",
   "Source": "Server",
   "BasePath": "_content/Server",
   "Mode": "Default",
@@ -235,7 +235,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.3/runtimes/browser-wasm/native/dotnet.js"
+      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.4/runtimes/browser-wasm/native/dotnet.js"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map",
@@ -254,15 +254,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.3/runtimes/browser-wasm/native/dotnet.js.map"
+      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.4/runtimes/browser-wasm/native/dotnet.js.map"
     },
     {
-      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.3.906rj00plc.js",
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.4.3hz35kshm1.js",
       "SourceId": "Client",
       "SourceType": "Project",
       "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.3.906rj00plc.js",
+      "RelativePath": "_framework/dotnet.native.8.0.4.3hz35kshm1.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -273,7 +273,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.3/runtimes/browser-wasm/native/dotnet.native.js"
+      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.4/runtimes/browser-wasm/native/dotnet.native.js"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.wasm",
@@ -292,15 +292,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.3/runtimes/browser-wasm/native/dotnet.native.wasm"
+      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.4/runtimes/browser-wasm/native/dotnet.native.wasm"
     },
     {
-      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.3.cocgsr8f18.js",
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.4.zwo5xcsegg.js",
       "SourceId": "Client",
       "SourceType": "Project",
       "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.3.cocgsr8f18.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.4.zwo5xcsegg.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -311,7 +311,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.3/runtimes/browser-wasm/native/dotnet.runtime.js"
+      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.4/runtimes/browser-wasm/native/dotnet.runtime.js"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
@@ -330,7 +330,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.3/runtimes/browser-wasm/native/dotnet.runtime.js.map"
+      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.4/runtimes/browser-wasm/native/dotnet.runtime.js.map"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat",
@@ -349,7 +349,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.3/runtimes/browser-wasm/native/icudt_CJK.dat"
+      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.4/runtimes/browser-wasm/native/icudt_CJK.dat"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
@@ -368,7 +368,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.3/runtimes/browser-wasm/native/icudt_EFIGS.dat"
+      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.4/runtimes/browser-wasm/native/icudt_EFIGS.dat"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
@@ -387,7 +387,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.3/runtimes/browser-wasm/native/icudt_no_CJK.dat"
+      "OriginalItemSpec": "/home/faziskado/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.4/runtimes/browser-wasm/native/icudt_no_CJK.dat"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.wasm",
@@ -4437,25 +4437,6 @@
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/System.Collections.Concurrent.wasm"
     },
     {
-      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/1lfleucwqd.gz",
-      "SourceId": "Client",
-      "SourceType": "Project",
-      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map"
-    },
-    {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/1xrle444eu.gz",
       "SourceId": "Client",
       "SourceType": "Project",
@@ -4663,6 +4644,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/System.Net.ServicePoint.wasm"
+    },
+    {
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/3hz35kshm1.gz",
+      "SourceId": "Client",
+      "SourceType": "Project",
+      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.4.3hz35kshm1.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.4.3hz35kshm1.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.4.3hz35kshm1.js"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/3wb1wxsf7a.gz",
@@ -5007,25 +5007,6 @@
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/Client.wasm"
     },
     {
-      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/71dnp2a5dk.gz",
-      "SourceId": "Client",
-      "SourceType": "Project",
-      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map"
-    },
-    {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/7dpj503p23.gz",
       "SourceId": "Client",
       "SourceType": "Project",
@@ -5216,23 +5197,23 @@
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.wasm"
     },
     {
-      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/906rj00plc.gz",
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/946y3zqfkv.gz",
       "SourceId": "Client",
       "SourceType": "Project",
       "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.3.906rj00plc.js.gz",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.3.906rj00plc.js",
+      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.3.906rj00plc.js"
+      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.wasm"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/9ku6drfz3o.gz",
@@ -5271,25 +5252,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.Diagnostics.wasm"
-    },
-    {
-      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/9m2cemc3ky.gz",
-      "SourceId": "Client",
-      "SourceType": "Project",
-      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/9ytcgmwif4.gz",
@@ -5387,6 +5349,25 @@
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/Microsoft.IdentityModel.Abstractions.wasm"
     },
     {
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/ao45u4hq1q.gz",
+      "SourceId": "Client",
+      "SourceType": "Project",
+      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map"
+    },
+    {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/b0kna0irqv.gz",
       "SourceId": "Client",
       "SourceType": "Project",
@@ -5423,6 +5404,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/System.Numerics.wasm"
+    },
+    {
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/bcx8f4iulw.gz",
+      "SourceId": "Client",
+      "SourceType": "Project",
+      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/berfdqighc.gz",
@@ -5613,25 +5613,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Components.wasm"
-    },
-    {
-      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/cocgsr8f18.gz",
-      "SourceId": "Client",
-      "SourceType": "Project",
-      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.3.cocgsr8f18.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.3.cocgsr8f18.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.3.cocgsr8f18.js"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/csm9wy92sd.gz",
@@ -5879,6 +5860,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/System.Net.WebHeaderCollection.wasm"
+    },
+    {
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/e3htnuppzc.gz",
+      "SourceId": "Client",
+      "SourceType": "Project",
+      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/e5vv88d2wc.gz",
@@ -6565,6 +6565,25 @@
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.wasm"
     },
     {
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/jwz2o9nmav.gz",
+      "SourceId": "Client",
+      "SourceType": "Project",
+      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map"
+    },
+    {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/jz3wt8cxmo.gz",
       "SourceId": "Client",
       "SourceType": "Project",
@@ -6639,25 +6658,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/System.Reflection.DispatchProxy.wasm"
-    },
-    {
-      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/k61mcaj1pu.gz",
-      "SourceId": "Client",
-      "SourceType": "Project",
-      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/kblyybuvkb.gz",
@@ -7135,25 +7135,6 @@
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/System.Collections.NonGeneric.wasm"
     },
     {
-      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/nz0w47fyen.gz",
-      "SourceId": "Client",
-      "SourceType": "Project",
-      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.js"
-    },
-    {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/o14k9w67s5.gz",
       "SourceId": "Client",
       "SourceType": "Project",
@@ -7287,6 +7268,25 @@
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.Configuration.wasm"
     },
     {
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/os0uisst7z.gz",
+      "SourceId": "Client",
+      "SourceType": "Project",
+      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.js"
+    },
+    {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/oxn3y5ek9x.gz",
       "SourceId": "Client",
       "SourceType": "Project",
@@ -7361,25 +7361,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/System.Diagnostics.Tracing.wasm"
-    },
-    {
-      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/p63f7vky84.gz",
-      "SourceId": "Client",
-      "SourceType": "Project",
-      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.wasm"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/p7qopust0x.gz",
@@ -7627,6 +7608,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/System.Xml.XmlSerializer.wasm"
+    },
+    {
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/r2h1t5lseb.gz",
+      "SourceId": "Client",
+      "SourceType": "Project",
+      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/r3fhpwe4mu.gz",
@@ -8313,25 +8313,6 @@
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.wasm"
     },
     {
-      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/xmjh66vos3.gz",
-      "SourceId": "Client",
-      "SourceType": "Project",
-      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat"
-    },
-    {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/xxhetcul4q.gz",
       "SourceId": "Client",
       "SourceType": "Project",
@@ -8520,6 +8501,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/System.Net.WebSockets.Client.wasm"
+    },
+    {
+      "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/zwo5xcsegg.gz",
+      "SourceId": "Client",
+      "SourceType": "Project",
+      "ContentRoot": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.4.zwo5xcsegg.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.4.zwo5xcsegg.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.4.zwo5xcsegg.js"
     },
     {
       "Identity": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/obj/Debug/net8.0/compressed/zzjq0oacdd.gz",
