@@ -33,6 +33,14 @@
       "PackagePath": "staticwebassets/icon-192.png"
     },
     {
+      "Id": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/wwwroot/images/avatar/avatar.png",
+      "PackagePath": "staticwebassets/images/avatar/avatar.png"
+    },
+    {
+      "Id": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/wwwroot/images/background/bg.jpg",
+      "PackagePath": "staticwebassets/images/background/bg.jpg"
+    },
+    {
       "Id": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },
