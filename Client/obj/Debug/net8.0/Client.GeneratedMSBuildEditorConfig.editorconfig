@@ -26,6 +26,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/Layout/AuthenticationLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L0F1dGhlbnRpY2F0aW9uTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/Pages/AccountPages/LoginPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudFBhZ2VzL0xvZ2luUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
