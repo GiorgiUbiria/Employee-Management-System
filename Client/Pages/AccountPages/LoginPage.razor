@@ -1,30 +1,33 @@
 @page "/identity/account/login"
+@layout AuthenticationLayout
 <div class="container">
     <div class="row">
-        <div class="col-lg-6">
+        <div class="col-lg-5"></div>
+        <div class="col-lg-2">
             <EditForm Enhance Model="User" OnValidSubmit="HandleLogin">
                 <DataAnnotationsValidator/>
                 <ValidationSummary/>
-                <div class="card">
-                    <div class="card-header">
-                       Fill this form to Log In 
-                    </div> 
+                <div class="card bg-dark" style="opacity: 0.5; margin-top: 50%; border-radius: 10px; color:  white; font-weight: bold;">
+                    <div class="card-header text-center fs-5 mb-2">
+                        Login
+                    </div>
                     <div class="card-body">
                         <div class="form-group mt-3">
-                            <label class="form-label">Email</label> 
+                            <label class="form-label">Email</label>
                             <InputText @bind-Value="User.Email" class="form-control"></InputText>
-                        </div> 
+                        </div>
                         <div class="form-group mt-3">
-                            <label class="form-label">Password</label> 
+                            <label class="form-label">Password</label>
                             <InputText type="password" @bind-Value="User.Password" class="form-control"></InputText>
-                        </div> 
+                        </div>
                         <div class="form-group mt-3">
-                            <button class="btn btn-outline-primary float-end" type="submit">Login</button> 
-                        </div> 
+                            <button class="btn btn-outline-primary float-end" type="submit">Login</button>
+                        </div>
                     </div>
                 </div>
-            </EditForm> 
-        </div> 
+            </EditForm>
+        </div>
+        <div class="col-lg-5"></div>
     </div>
 </div>
 
