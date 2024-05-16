@@ -26,7 +26,14 @@
                             <InputText type="password" @bind-Value="User.ConfirmPassword" class="form-control"></InputText>
                         </div>
                         <div class="form-group mt-3">
-                            <button class="btn btn-outline-primary float-end" type="submit">Register</button>
+                            @if (ShowLoadingButton)
+                            {
+                                <ButtonLoadingSpinner />    
+                            }
+                            else
+                            {
+                                <button class="btn btn-outline-primary float-end" type="submit">Register</button>
+                            }
                         </div>
                     </div>
                     <div class="card-footer">
@@ -41,7 +48,8 @@
 </div>
 
 @code {
-
+    public bool ShowLoadingButton { get; set; } = false;
+    
     Register User = new();
 
     async Task HandleRegistration()
