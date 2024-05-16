@@ -54,6 +54,8 @@
 
     async Task HandleRegistration()
     {
+        ShowLoadingButton = true;
+        
         var result = await accountService.CreateAsync(User);
         if (result.Flag)
         {
@@ -63,6 +65,8 @@
         {
             
         }
+
+        ShowLoadingButton = false;
     }
 
 }
