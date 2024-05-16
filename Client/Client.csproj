@@ -13,6 +13,10 @@
         <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.3"/>
         <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.3" PrivateAssets="all"/>
         <PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
+        <PackageReference Include="Syncfusion.Blazor.Buttons" Version="25.2.4" />
+        <PackageReference Include="Syncfusion.Blazor.Core" Version="25.2.4" />
+        <PackageReference Include="Syncfusion.Blazor.Popups" Version="25.2.4" />
+        <PackageReference Include="Syncfusion.Blazor.Themes" Version="25.2.4" />
         <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.5.1" />
     </ItemGroup>
 

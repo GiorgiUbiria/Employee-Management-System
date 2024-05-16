@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IW7QW1SCdWVl5DzpMQWgDlq7/b5nYaGsSHFQqVPazxtyKTTL0dfGUK640piyPnOJBe1p+PKkCm+f4ZwHh/W73A==",
+  "dgSpecHash": "v/T4UpXbFC/8CIfTrZUrRFlK+Oj/0k+uSH3nzT011SqO4DzlVLKnS88NZEJ6rYSPY1iBkBM7IEhGqrSCuuHlow==",
   "success": true,
   "projectFilePath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/Server.csproj",
   "expectedPackageFiles": [
@@ -95,6 +95,11 @@
     "/home/faziskado/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/syncfusion.blazor.buttons/25.2.4/syncfusion.blazor.buttons.25.2.4.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/syncfusion.blazor.core/25.2.4/syncfusion.blazor.core.25.2.4.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/syncfusion.blazor.popups/25.2.4/syncfusion.blazor.popups.25.2.4.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/syncfusion.blazor.themes/25.2.4/syncfusion.blazor.themes.25.2.4.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/syncfusion.licensing/25.2.4/syncfusion.licensing.25.2.4.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.appcontext/4.3.0/system.appcontext.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.buffers/4.3.0/system.buffers.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",

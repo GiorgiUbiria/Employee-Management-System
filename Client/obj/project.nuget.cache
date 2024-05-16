@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TO+tZUdtQreHWwjr6QjevDK3y8QhZTeeEru/XRMwHiIQK2FrN72MkU4CAIR4hGxkSCpC3nPE7s31xRtEgLCR9w==",
+  "dgSpecHash": "q3Eb+Nrb5upR3Lc6d/agbC4xuB6G/ajoJ8KLFKfgoRUN30GLx2LWjcr6OsREuw6bCdYCUV8OoD2QZAPxNa4A/A==",
   "success": true,
   "projectFilePath": "/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Client/Client.csproj",
   "expectedPackageFiles": [
@@ -82,6 +82,11 @@
     "/home/faziskado/.nuget/packages/runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.2/runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "/home/faziskado/.nuget/packages/runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.2/runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "/home/faziskado/.nuget/packages/runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.2/runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/syncfusion.blazor.buttons/25.2.4/syncfusion.blazor.buttons.25.2.4.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/syncfusion.blazor.core/25.2.4/syncfusion.blazor.core.25.2.4.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/syncfusion.blazor.popups/25.2.4/syncfusion.blazor.popups.25.2.4.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/syncfusion.blazor.themes/25.2.4/syncfusion.blazor.themes.25.2.4.nupkg.sha512",
+    "/home/faziskado/.nuget/packages/syncfusion.licensing/25.2.4/syncfusion.licensing.25.2.4.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.appcontext/4.3.0/system.appcontext.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.buffers/4.3.0/system.buffers.4.3.0.nupkg.sha512",
     "/home/faziskado/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",

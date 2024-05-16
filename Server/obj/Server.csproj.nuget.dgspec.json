@@ -137,6 +137,22 @@
               "version": "[8.0.4, )",
               "autoReferenced": true
             },
+            "Syncfusion.Blazor.Buttons": {
+              "target": "Package",
+              "version": "[25.2.4, )"
+            },
+            "Syncfusion.Blazor.Core": {
+              "target": "Package",
+              "version": "[25.2.4, )"
+            },
+            "Syncfusion.Blazor.Popups": {
+              "target": "Package",
+              "version": "[25.2.4, )"
+            },
+            "Syncfusion.Blazor.Themes": {
+              "target": "Package",
+              "version": "[25.2.4, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[7.5.1, )"

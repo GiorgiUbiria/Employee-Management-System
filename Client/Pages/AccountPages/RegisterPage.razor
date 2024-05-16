@@ -6,7 +6,7 @@
         <div class="col-lg-4">
             <EditForm Enhance Model="User" OnValidSubmit="HandleRegistration">
                 <DataAnnotationsValidator/>
-                <div class="card bg-dark d-flex justify-content-center" style="opacity: 0.5; backdrop-filter: blur(2px) brightness(70%); margin-top: 50%; border-radius: 10px; color:  white; font-weight: bold;">
+                <div class="card bg-dark d-flex justify-content-center" style="margin-top: 50%; border-radius: 10px; color:  white; font-weight: bold;">
                     <div class="card-header text-center fs-5 mb-2">Register an account</div>
                     <div class="card-body">
                         <div class="form-group">
@@ -28,7 +28,7 @@
                         <div class="form-group mt-3">
                             @if (ShowLoadingButton)
                             {
-                                <ButtonLoadingSpinner />    
+                                <ButtonLoadingSpinner></ButtonLoadingSpinner>
                             }
                             else
                             {
