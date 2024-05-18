@@ -90,4 +90,39 @@
         collapseNavMenu = !collapseNavMenu;
     }
 
+    public string DepartmentMargin { get; set; } = "-3.5rem";
+    private string CssStyle = "hidden";
+    public bool ShowHide { get; set; } = false;
+
+    public void ShowAdminMenuContainer()
+    {
+        ShowHide = !ShowHide;
+        if (ShowHide)
+        {
+            DepartmentMargin = "0";
+            CssStyle = "visible";
+        }
+        else
+        {
+            DepartmentMargin = "-3.5rem";
+            CssStyle = "hidden";
+        }
+    }
+
+    private string DepartmentCssStyle = "hidden";
+    public bool ShowHideDepartment { get; set; } = false;
+
+    public void ShowDepartmentContainer()
+    {
+        ShowHideDepartment = !ShowHideDepartment;
+
+        if (ShowHideDepartment)
+        {
+            DepartmentCssStyle = "visible";
+        }
+        else
+        {
+            DepartmentCssStyle = "hidden";
+        }
+    }
 }
