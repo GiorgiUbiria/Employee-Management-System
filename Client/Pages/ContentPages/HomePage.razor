@@ -1,7 +1,8 @@
 @page "/home/dashboard"
 @layout MainLayout
 @inject NavigationManager NavManager
-<h1>Home Page</h1>
+
+<TableBanner />
 
 @code {
     [CascadingParameter] public Task<AuthenticationState> AuthenticationState { get; set; }
