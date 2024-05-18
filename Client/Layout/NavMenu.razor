@@ -1,4 +1,6 @@
 ﻿@using Microsoft.AspNetCore.Components.Authorization
+@using Client.ApplicationStates
+@inject DepartmentState departmentState
 
 <AuthorizeView>
     <Authorized>
@@ -124,5 +126,10 @@
         {
             DepartmentCssStyle = "hidden";
         }
+    }
+
+    void GeneralDepartmentClicked()
+    {
+        departmentState.GeneralDepartmentClicked();
     }
 }
