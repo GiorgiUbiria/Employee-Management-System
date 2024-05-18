@@ -1,6 +1,5 @@
 ﻿@page "/"
 
-@inject NavigationManager NavManager
 @code {
 
     [CascadingParameter] public Task<AuthenticationState> AuthenticationState { get; set; }
@@ -10,11 +9,11 @@
         var user = (await AuthenticationState).User;
         if (user.Identity!.IsAuthenticated)
         {
-            NavManager.NavigateTo("/home/dashboard");
+            Navigation.NavigateTo("/home/dashboard");
         }
         else
         {
-            NavManager.NavigateTo("/identity/account/login");
+            Navigation.NavigateTo("/identity/account/login");
         }
     }
     

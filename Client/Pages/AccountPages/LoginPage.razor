@@ -2,7 +2,7 @@
 @using Syncfusion.Blazor.Popups
 @layout AuthenticationLayout
 @inject SfDialogService DialogService
-@inject NavigationManager NavManager
+
 <div class="container">
     <div class="row">
         <div class="col-lg-4"></div>
@@ -83,7 +83,7 @@
         bool isUserAuthenticated = user.Identity!.IsAuthenticated;
         if (isUserAuthenticated)
         {
-            NavManager.NavigateTo("/home/dashboard");
+            Navigation.NavigateTo("/home/dashboard");
         }
     }
 }

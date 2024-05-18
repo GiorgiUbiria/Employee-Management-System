@@ -1,6 +1,5 @@
 @page "/home/dashboard"
 @layout MainLayout
-@inject NavigationManager NavManager
 
 <TableBanner />
 
@@ -18,7 +17,7 @@
         bool isUserAuthenticated = user.Identity!.IsAuthenticated;
         if (!isUserAuthenticated)
         {
-            NavManager.NavigateTo("/identity/account/login");
+            Navigation.NavigateTo("/identity/account/login");
         }
     }
 }
