@@ -2,6 +2,7 @@ using Blazored.LocalStorage;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Client;
+using Client.ApplicationStates;
 using Microsoft.AspNetCore.Components.Authorization;
 using ClientLibrary.Helpers;
 using ClientLibrary.Services.Contracts;
@@ -28,5 +29,6 @@ builder.Services.AddScoped<AuthenticationStateProvider, CustomAuthenticationStat
 builder.Services.AddScoped<IUserAccountService, UserAccountService>();
 builder.Services.AddSyncfusionBlazor();
 builder.Services.AddScoped<SfDialogService>();
+builder.Services.AddScoped<DepartmentState>();
 
 await builder.Build().RunAsync();
