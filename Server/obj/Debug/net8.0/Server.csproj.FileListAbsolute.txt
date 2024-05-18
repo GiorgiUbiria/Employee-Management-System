@@ -144,3 +144,8 @@
 /home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
 /home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/ClientLibrary.dll
 /home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/ClientLibrary.pdb
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/Syncfusion.Blazor.Buttons.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/Syncfusion.Blazor.Core.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/Syncfusion.Blazor.Popups.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/Syncfusion.Blazor.Themes.dll
+/home/faziskado/Projects/DotNet/RiderProjects/EmployeeManagementSystem/Server/bin/Debug/net8.0/Syncfusion.Licensing.dll

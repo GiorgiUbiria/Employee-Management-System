@@ -999,6 +999,58 @@
           }
         }
       },
+      "Syncfusion.Blazor.Buttons/25.2.4": {
+        "dependencies": {
+          "Syncfusion.Blazor.Core": "25.2.4"
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Buttons.dll": {
+            "assemblyVersion": "25.2.4.0",
+            "fileVersion": "25.2.4.0"
+          }
+        }
+      },
+      "Syncfusion.Blazor.Core/25.2.4": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "8.0.3",
+          "Syncfusion.Licensing": "25.2.4",
+          "System.Text.Json": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Core.dll": {
+            "assemblyVersion": "25.2.4.0",
+            "fileVersion": "25.2.4.0"
+          }
+        }
+      },
+      "Syncfusion.Blazor.Popups/25.2.4": {
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "25.2.4",
+          "Syncfusion.Blazor.Core": "25.2.4"
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Popups.dll": {
+            "assemblyVersion": "25.2.4.0",
+            "fileVersion": "25.2.4.0"
+          }
+        }
+      },
+      "Syncfusion.Blazor.Themes/25.2.4": {
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Themes.dll": {
+            "assemblyVersion": "25.2.4.0",
+            "fileVersion": "25.2.4.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/25.2.4": {
+        "runtime": {
+          "lib/net8.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "25.2.4.0",
+            "fileVersion": "25.2.4.0"
+          }
+        }
+      },
       "System.AppContext/4.3.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -1776,6 +1828,10 @@
           "Microsoft.AspNetCore.Components.Authorization": "8.0.4",
           "Microsoft.AspNetCore.Components.WebAssembly": "8.0.3",
           "Microsoft.Extensions.Http": "8.0.0",
+          "Syncfusion.Blazor.Buttons": "25.2.4",
+          "Syncfusion.Blazor.Core": "25.2.4",
+          "Syncfusion.Blazor.Popups": "25.2.4",
+          "Syncfusion.Blazor.Themes": "25.2.4",
           "System.IdentityModel.Tokens.Jwt": "7.5.1"
         },
         "runtime": {
@@ -2456,6 +2512,41 @@
       "sha512": "sha512-1Hh3atb3pi8c+v7n4/3N80Jj8RvLOXgWxzix6w3OZhB7zBGRwsy7FWr4e3hwgPweSBpwfElqj4V4nkjYabH9nQ==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.4.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    },
+    "Syncfusion.Blazor.Buttons/25.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LkaZVOh54JxjBWVmMK1vyGhNYxdEa7tuQqK/BxHeS+MQvH1Watv9nXBD1JqRLULfSeO043NJ/k2BXSEmjF8dZQ==",
+      "path": "syncfusion.blazor.buttons/25.2.4",
+      "hashPath": "syncfusion.blazor.buttons.25.2.4.nupkg.sha512"
+    },
+    "Syncfusion.Blazor.Core/25.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jovcIkkaGfBFult8lqIXrcqROx8nPxcvMGxEDUKF7+tEWZBxnyx0K+OH/6OioRlf5C4jFeStq6XTAer//ncX3Q==",
+      "path": "syncfusion.blazor.core/25.2.4",
+      "hashPath": "syncfusion.blazor.core.25.2.4.nupkg.sha512"
+    },
+    "Syncfusion.Blazor.Popups/25.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r3jyjHD+3qZDl7o6KrlS79vTwwcSc7+R9T0qS/E0CTtPZF8XtnkfL3/TLk70GYGVUPl10k7T+L9hkS0dzUQlnA==",
+      "path": "syncfusion.blazor.popups/25.2.4",
+      "hashPath": "syncfusion.blazor.popups.25.2.4.nupkg.sha512"
+    },
+    "Syncfusion.Blazor.Themes/25.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wfnm9KKdRwXmHe6YCWhbR65iJbK8UgTUUNWeE+9ItZJD7iDQTTLhe97pO83Dv8Sq9mXgUemHVomIVDNlU2f11w==",
+      "path": "syncfusion.blazor.themes/25.2.4",
+      "hashPath": "syncfusion.blazor.themes.25.2.4.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/25.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0IIre+PQHFxpYL+i3a3wYDSGWLkdoDA/ulB8DHuK2DeTEQeBe/qsVkYc6DHCRpR7nHAd02cHS4V6CYGDuMDYWw==",
+      "path": "syncfusion.licensing/25.2.4",
+      "hashPath": "syncfusion.licensing.25.2.4.nupkg.sha512"
     },
     "System.AppContext/4.3.0": {
       "type": "package",

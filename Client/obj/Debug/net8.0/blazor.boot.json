@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Client",
   "resources": {
-    "hash": "sha256-RtbBAI8PB+yWbP4hqnshV4CEanIXySep5ODwobnia1o=",
+    "hash": "sha256-6/seKuqifN1FLMrjeT//sGO6QXDpIkgct0iw0xSvsgg=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.3hz35kshm1.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -53,6 +53,11 @@
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-7Kynwrt1WgD1vcIlR40Jp4FAVnZqGcD7NPQGLCnf8ew=",
       "Newtonsoft.Json.wasm": "sha256-fQAJbHySbehyIrvQKp3Xt/dFyYjFwCB3Lk5xuaCIEHo=",
       "Newtonsoft.Json.Bson.wasm": "sha256-UWNBVoA49JZJpKz5iOlXDaX4k11puXqwvkj+abrlxYc=",
+      "Syncfusion.Blazor.Buttons.wasm": "sha256-goc8MuwBdiQizWc4XL4twwnfhuKwcsA5ShfO3RxV6cc=",
+      "Syncfusion.Blazor.Core.wasm": "sha256-4WqWgAWu8KecVv51Rv2asLDF2kQf1wuchk+YI6RsQRo=",
+      "Syncfusion.Blazor.Popups.wasm": "sha256-jDHqlVAIbqLVvIH+QUReV7PIXy2y+U6Xr5ljCFjcBZc=",
+      "Syncfusion.Blazor.Themes.wasm": "sha256-/At8qFzlNziyiWi4dDAzutgXxCGeyVkefSGVpp58t8E=",
+      "Syncfusion.Licensing.wasm": "sha256-JVODgyQGGGAA1tW88XJjb5ky4cpR+UQQxM6P3Q8OpIc=",
       "System.IdentityModel.Tokens.Jwt.wasm": "sha256-PO+x96C/PkZ0SBbU+a9mIaUKvAK79n200oqZ/t+TxrE=",
       "System.IO.Pipelines.wasm": "sha256-JqVBy6SV+3qk+IK3VJiyIDt9CsVk6b1/ytTXmrI4mTM=",
       "Microsoft.CSharp.wasm": "sha256-sgDYO7pTKBp26VEYGERg9rHaW/dC7PeDncMgQQIuAVw=",
@@ -226,12 +231,12 @@
       "BaseClass.wasm": "sha256-CfvoNDQEyOTM/h6FUEXacdFK9TId4HsCJ+Luv+osUw4=",
       "ClientLibrary.wasm": "sha256-SKdhf5+PWFTmj05i2qFNIUkcXTy8HQxP4+ekb4YFV0c=",
       "Microsoft.EntityFrameworkCore.wasm": "sha256-7b/smIWXYYSTQkuKDuHwCqVHnzWf9XbFL5ArO9xzRxw=",
-      "Client.wasm": "sha256-ehoROBFKkBvW+0Qgwe9WpNkAmfHNZvFh1oEpWmj2e28="
+      "Client.wasm": "sha256-x/YSYXCZpNzuA+p8GXwDFp7tcKHJXDnnw686XU/RRqo="
     },
     "pdb": {
       "BaseClass.pdb": "sha256-eoidKA+Z/yrdSfzEejmQ+PHsOOJRaJzvpnMAfk29fs4=",
       "ClientLibrary.pdb": "sha256-OLAXSQzhEbvXCNGOyv8ixg1DVlKETKrjMZqacX/esIU=",
-      "Client.pdb": "sha256-bnzod5c1tMEn1d2lIyG6SZ3XKKOZZfxZlRk1/HHkbVU="
+      "Client.pdb": "sha256-Xt8jlurjK1EOdfTpGl5IL6xRAvIXjz98iIn54adoPXI="
     }
   },
   "cacheBootResources": true,
